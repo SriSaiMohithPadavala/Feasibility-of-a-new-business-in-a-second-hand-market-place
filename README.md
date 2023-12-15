@@ -8,7 +8,7 @@ In the meticulous process of data collection, our analysis unfolds through a dua
 The quantitative facet involves the execution of two surveys, meticulously crafted to garner insights into the dynamics of the secondhand marketplace. 
 These surveys are designed to extract numerical data, providing a quantitative foundation for our analysis.
 Simultaneously, we employ web scraping techniques to delve into the online landscape, extracting real-time information from diverse platforms. 
-This dual-method strategy positions our analysis to offer a comprehensive understanding of the multifaceted secondhand marketplace.
+This dual-method strategy positions our analysis to offer a comprehensive understanding of the multifaceted secondhand marketplace and finally lead to a conclusion if a business could be established in this domain.
 
 # Data sources and Datasets:
 Our data compilation involved three main sources:
