@@ -1,4 +1,4 @@
-# Feasibility-of-a-new-business-in-a-second-hand-market-place.
+# Feasibility of a New Business in a Second Hand Market Place.
 In response to challenges faced by individuals in the secondhand marketplace, 
 we aim to conduct a comprehensive analysis of the current market landscape, incorporating insights from surveys and situational assessments. 
 The goal is to evaluate the feasibility of introducing a new platform that addresses the existing issues and enhances the overall experience for buying and selling in the secondhand marketplace. 
