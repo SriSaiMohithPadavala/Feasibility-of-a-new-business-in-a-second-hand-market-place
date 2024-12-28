@@ -10,20 +10,42 @@ These surveys are designed to extract numerical data, providing a quantitative f
 Simultaneously, we employ web scraping techniques to delve into the online landscape, extracting real-time information from diverse platforms. 
 This dual-method strategy positions our analysis to offer a comprehensive understanding of the multifaceted secondhand marketplace and finally lead to a conclusion if a business could be established in this domain.
 
-# Data sources and Datasets:
-Our data compilation involved three main sources:
 
-1.	 Initially, we employed web scraping to gather data specifically related to furniture items from Craigslist. Since, there is no readymade dataset available, web scraping was opted to extract: Title, Price, Location, URL, Date posted.
-Link: https://boston.craigslist.org/search/fua#search=1~gallery~0~0
+## Approach
+### **Data Collection**
+Our analysis employed a dual-pronged approach to gather data:
+1. **Quantitative Surveys**:
+   - Two surveys were designed to extract numerical insights into user experiences, preferences, and challenges in the secondhand marketplace.
+   - Over 80 respondents were surveyed at locations like Curry Center, Snell Library, and random campus interactions.
+2. **Web Scraping**:
+   - Extracted real-time data from Craigslist, focusing on furniture items, including:
+     - Title, Price, Location, URL, and Date Posted.
+   - Manual web scraping was performed on secondhand marketplace apps to classify reviews into seven scam types.
+     - Links:
+       - [eBay Reviews](https://ebay.pissedconsumer.com/review.html#reviews)
+       - [Facebook Marketplace Reviews](https://facebook-marketplace.pissedconsumer.com/review.html)
+       - [Poshmark Reviews](https://poshmark.pissedconsumer.com/review.html)
+       - [OfferUp Reviews](https://offerup.pissedconsumer.com/review.html)
 
-2.	Subsequently, we conducted a comprehensive review collection from popular second-hand marketplace apps. The reviews could not be scraped as the site had too many apps and no specific format for reviews posted by different profiles hence web scraping code was not an efficient method. Hence, we opted for manual web scraping and categorized them into a set of 7 different scam types.
-Link: https://ebay.pissedconsumer.com/review.html#reviews
-https://facebook-marketplace.pissedconsumer.com/review.html
-https://poshmark.pissedconsumer.com/review.html
-https://offerup.pissedconsumer.com/review.html
+### **Data Sources**
+1. **Web Scraped Data**:
+   - Craigslist furniture listings: [Link](https://boston.craigslist.org/search/fua#search=1~gallery~0~0)
+2. **Manually Collected Reviews**:
+   - Reviews from popular secondhand apps categorized into scam types.
+3. **Survey Data**:
+   - Attributes covered:
+     - Pickup modes, WhatsApp-related issues, types of scams, and preferred apps.
 
-3.	 Finally, we acquired primary data through a survey, covering various attributes such as pickup modes, issues on WhatsApp, types of scams, preferred apps, and more. We surveyed over 80 people from Curry center, Snell library and from random people on campus.
+## Tools and Techniques Used
+- **Web Scraping**: Automated data collection from Craigslist using Python.
+- **Manual Review Compilation**: Classified and analyzed reviews into scam categories.
+- **Survey Execution**: Conducted primary data collection through direct interactions.
+- **Data Analysis**:
+   - Structured and analyzed data using Excel and Python for visualization and insights.
 
-
-
-
+## Outcome
+- Gained insights into common issues such as scams, logistical challenges, and user preferences in the secondhand marketplace.
+- Identified key areas for improvement and innovation:
+  - Streamlined pickup modes.
+  - Enhanced platform transparency to mitigate scams.
+- Concluded the feasibility of introducing a new platform tailored to user needs, addressing pain points, and offering an improved marketplace experience.
