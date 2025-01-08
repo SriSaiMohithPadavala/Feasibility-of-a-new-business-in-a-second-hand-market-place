@@ -16,7 +16,7 @@ This dual-method strategy positions our analysis to offer a comprehensive unders
 Our analysis employed a dual-pronged approach to gather data:
 1. **Quantitative Surveys**:
    - Two surveys were designed to extract numerical insights into user experiences, preferences, and challenges in the secondhand marketplace.
-   - Over 80 respondents were surveyed at locations like Curry Center, Snell Library, and random campus interactions.
+   - Over 300 respondents were surveyed at locations like Curry Center, Snell Library, and random campus interactions.
 2. **Web Scraping**:
    - Extracted real-time data from Craigslist, focusing on furniture items, including:
      - Title, Price, Location, URL, and Date Posted.
